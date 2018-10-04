@@ -1,7 +1,9 @@
 //import org.junit.Test;
 //import org.junit.Assert.*;
-import java.util.*;
-import java.io.*;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 /**
  * <div>
@@ -10,7 +12,7 @@ import java.io.*;
  *
  * <h4>Easy</h4>
  * <p>
-*  This program is tasked with calculating the month and day of Easter given a specified
+ *  This program is tasked with calculating the month and day of Easter given a specified
  * year in the Gregorian calender. The calculation is implemented with the Meeus/Jones/Butcher
  * Gregorian algorithm. User input is taken and the date of easter on that given input year is displayed.
  * </p>
@@ -25,7 +27,7 @@ import java.io.*;
  * @since SDK 1.8
  */
 
-public class Computus
+public class ComputusMain
 {
     public static void main(String [] args) throws IOException, NumberFormatException {
         //Variables
@@ -35,7 +37,7 @@ public class Computus
         //User input
         BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
         System.out.print("This program will calculate the date of Easter based on the " +
-                         "Gregorian calender. \nPlease enter your desired year: ");
+                "Gregorian calender. \nPlease enter your desired year: ");
         try {
             givenYear = Integer.parseInt(input.readLine());
             //Checks for positive input value and has user retry if not
@@ -50,8 +52,8 @@ public class Computus
 
             //Part B (counts of dates over entire cycle)
             System.out.print("The count of every Easter on each year in a given cycle will be listed below" +
-                             " with their respective {month,day} listed: \n" +
-                             "Processing...");
+                    " with their respective {month,day} listed: \n" +
+                    "Processing...");
             easter.calculateCycleCount();
             easter.printCycleCount();
         }

@@ -1,8 +1,5 @@
-import java.util.*;
-import java.io.*;
-
 /**
- * @Author Marc Shepherd
+ * @author Marc Shepherd
  * @version 1.0, 29 Sept 2018
  * @since SDK 1.8
  */
@@ -15,7 +12,7 @@ public class Cipher {
     private String extendedKey = "";
 
     /**
-     * Brings in plain-text and key to be used to encrypt & decrypt
+     * Brings in plain-text and key to be used to encrypt and decrypt
      * @param plainText message that is to be encrypted
      * @param key       key used to assist in encryption
      */
@@ -31,7 +28,6 @@ public class Cipher {
      * plain-text: ATTACK AT DAWN
      * key: LEMON
      * Extended key becomes LEMONLEMONLE
-     * @return void - used to instantiate extendedKey
      */
     public void extendKey() {
         char[] extendoKey = new char[100];
@@ -56,7 +52,8 @@ public class Cipher {
 
         for (int i =0; i < text.length(); i++) {
 
-            encryptedText += (char)((text.charAt(i) + extendedKey.charAt(i) - 2 * 'A') % 26 + 'A');
+            //encryptedText += (char)((text.charAt(i) + extendedKey.charAt(i) - 2 * 'A') % 26 + 'A');
+            encryptedText += (char) ( ((text.charAt(i) + extendedKey.charAt(i)) % 26) + 'A' );
             //encryptedText += (char) ((text.charAt(i) + extendedKey.charAt(i) + 26));
         }
         return encryptedText;
@@ -70,21 +67,8 @@ public class Cipher {
         String decrypted = "";
 
         for (int i = 0; i < text.length(); i++) {
-        decrypted += (char) ((encryptedText.charAt(i) - extendedKey.charAt(i) + 26) % 26 + 'A');
+        decrypted += (char) ( ( ((encryptedText.charAt(i) - extendedKey.charAt(i)) + 26) % 26 ) + 'A' );
         }
         return decrypted;
     }
 }
-
-/*ENCRYPTING
- //Testing  . . . . System.out.println("Text value: " + Character.getNumericValue(text.charAt(i)) + " | Key value: " + Character.getNumericValue(key.charAt(i)));
-
-            //System.out.println(((Character.getNumericValue(text.charAt(i)) - 10) + ((Character.getNumericValue(key.charAt(i))) - 10) % 26));
-            //Returns int value that the specified unicode character represents
-            //cipherCode[i] = ((Character.getNumericValue(text.charAt(i)) - 10)
-            //              + ((Character.getNumericValue(extendedKey.charAt(i))) - 10) % 26);
-            //...subtract 10 for
-            //System.out.print(cipherCode[i] + " ");
-            //cipherCode.append((char) ((Character.getNumericValue(text.charAt(i)) + 65) + ((extendedKey.charAt(i) + 65) % 26 + 'A')));
-            //cipherCode += ((char) ((Character.getNumericValue(text.charAt(i))) + ((extendedKey.charAt(i)) % 26)));
- */

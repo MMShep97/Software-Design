@@ -1,5 +1,7 @@
-import java.util.*;
-import java.io.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 /**
  * Date is used to calculate the date Easter occurs on a single given year.
@@ -11,14 +13,15 @@ import java.io.*;
  */
 public class Date {
     private int a, b, c, d, e, f, g, h, i, k, l, m;
+    private final int CYCLE_COUNT = 3000000; //5,700,000 takes a long time (so for demonstration purposes)
     private int year, month, day;
     private String monthDay;
     private List<Date> easterArray = new ArrayList<>();
     private Map<String, Integer> easterCountMap = new HashMap<>();
     private final String [] possibleEasterDates= {"3/22", "3/23", "3/24", "3/25", "3/26","3/27", "3/28", "3/29", "3/30",
-                                                  "3/31", "4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9",
-                                                  "4/10", "4/11", "4/12", "4/13", "4/14", "4/15", "4/16", "4/17", "4/18",
-                                                  "4/19", "4/20", "4/21", "4/22", "4/23", "4/24", "4/25"};
+            "3/31", "4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9",
+            "4/10", "4/11", "4/12", "4/13", "4/14", "4/15", "4/16", "4/17", "4/18",
+            "4/19", "4/20", "4/21", "4/22", "4/23", "4/24", "4/25"};
 
     /**
      * Constructor to instantiate important variables for every object
@@ -68,7 +71,7 @@ public class Date {
      */
     public void calculateCycleCount() {
         initializeEasterMap();
-        for (int i = 0; i < 5700000; i++) {
+        for (int i = 0; i < CYCLE_COUNT; i++) {
             easterArray.add((new Date(year + i)));
             easterArray.get(i).calculateGregorianDate();
 
@@ -93,6 +96,7 @@ public class Date {
 
     //Prints count corresponding to each date
     public void printCycleCount() {
+        System.out.println();
         easterCountMap.forEach((key, value) -> System.out.println("Date: " + key + " | Count: " + easterCountMap.get(key)));
     }
 }

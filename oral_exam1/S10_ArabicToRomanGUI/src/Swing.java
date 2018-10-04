@@ -1,9 +1,7 @@
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.*;
-import java.awt.EventQueue;
-import java.awt.GridLayout;
-import javax.swing.*;
 
 /**
  * The <code>Swing</code> class acts as the GUI and has a nested private class to handle the textBox inputs to convert

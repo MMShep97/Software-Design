@@ -1,6 +1,3 @@
-import java.util.*;
-import java.io.*;
-
 /**
  * This class takes in a user specified arabic number and converts that arabic number into the equivalent roman numerals.
  * It has one function <code>convert</code> and uses the private field <code>arabicNum</code> to convert.
