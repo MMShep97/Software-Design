@@ -50,11 +50,9 @@ public class Cipher {
      */
     public String encrypt() {
 
+        //Cast as a character to retain the value in that form, and add A at the end as alphabet starts at unicode decimal value of 65
         for (int i =0; i < text.length(); i++) {
-
-            //encryptedText += (char)((text.charAt(i) + extendedKey.charAt(i) - 2 * 'A') % 26 + 'A');
-            encryptedText += (char) ( ((text.charAt(i) + extendedKey.charAt(i)) % 26) + 'A' );
-            //encryptedText += (char) ((text.charAt(i) + extendedKey.charAt(i) + 26));
+            encryptedText += (char) ( ((text.charAt(i) + extendedKey.charAt(i) ) % 26) + 'A' );
         }
         return encryptedText;
     }
@@ -66,9 +64,10 @@ public class Cipher {
     public String decrypt() {
         String decrypted = "";
 
+        //Decrypted characters added... formula: (encrypted - key) % 26
         for (int i = 0; i < text.length(); i++) {
-        decrypted += (char) ( ( ((encryptedText.charAt(i) - extendedKey.charAt(i)) + 26) % 26 ) + 'A' );
-        }
+        decrypted += (char) ( ( ((encryptedText.charAt(i) - extendedKey.charAt(i)) + 26) % 26 ) + 'A' ); //Can add any number of 26's i.e. 26, 52, etc.
+        }                                                                                                //Makes sure there are not negative values when subtracting
         return decrypted;
     }
 }
