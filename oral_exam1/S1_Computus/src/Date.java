@@ -99,4 +99,8 @@ public class Date {
         System.out.println();
         easterCountMap.forEach((key, value) -> System.out.println("Date: " + key + " | Count: " + easterCountMap.get(key)));
     }
+    
+    public String getMonthDay() {
+        return monthDay;
+    }
 }
