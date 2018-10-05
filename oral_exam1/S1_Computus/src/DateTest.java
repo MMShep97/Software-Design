@@ -29,6 +29,7 @@ class DateTest {
 
 /*https://en.wikipedia.org/wiki/List_of_dates_for_Easter*/
 /*Used Western list to the right*/
+/*Make sure Junit is configured to the project, if not, alt enter and add the dependancy*/
 
     @Test
     void calculateGregorianDate() {
