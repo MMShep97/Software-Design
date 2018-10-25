@@ -13,7 +13,7 @@ import java.util.Map;
  */
 public class Date {
     private int a, b, c, d, e, f, g, h, i, k, l, m;
-    private final int CYCLE_COUNT = 3000000; //5,700,000 takes a long time (so for demonstration purposes)
+    private final int CYCLE_COUNT = 5700000; //5,700,000 takes a long time with slow processors
     private int year, month, day;
     private String monthDay;
     private List<Date> easterArray = new ArrayList<>();
@@ -98,5 +98,9 @@ public class Date {
     public void printCycleCount() {
         System.out.println();
         easterCountMap.forEach((key, value) -> System.out.println("Date: " + key + " | Count: " + easterCountMap.get(key)));
+    }
+    
+    public String getMonthDay() {
+        return monthDay;
     }
 }
