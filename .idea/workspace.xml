@@ -4,9 +4,152 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88433da3-b8be-4510-b70d-671cf1fe7925" name="Default Changelist" comment="">
+    <list default="true" id="88433da3-b8be-4510-b70d-671cf1fe7925" name="Default Changelist" comment="Committing">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/oral_exam1/S28_Vigenere/src/Cipher.java" afterPath="$PROJECT_DIR$/oral_exam1/S28_Vigenere/src/Cipher.java" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/Computus_UML.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/S1_Computus.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/ComputusMain.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/Date.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/allclasses-frame.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/allclasses-noframe.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/constant-values.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/deprecated-list.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/help-doc.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-1.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-10.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-11.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-12.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-13.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-14.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-5.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-6.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-7.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-8.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index-files/index-9.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/overview-tree.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/package-frame.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/package-list" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/package-summary.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/package-tree.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/doc/stylesheet.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/ComputusMain.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/Date.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/MachineLearning_UML.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/S27_MachineLearning.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/MachineLearning.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/Similarity.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/allclasses-frame.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/allclasses-noframe.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/constant-values.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/deprecated-list.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/help-doc.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/index-files/index-1.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/index-files/index-2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/index-files/index-3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/overview-tree.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/package-frame.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/package-list" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/package-summary.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/package-tree.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/doc/stylesheet.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/src/MachineLearning.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/src/Similarity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/S28_Vigenere.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/Vigenere_UML.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/Cipher.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/Vigenere.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/allclasses-frame.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/allclasses-noframe.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/constant-values.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/deprecated-list.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/help-doc.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/index-files/index-1.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/index-files/index-2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/index-files/index-3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/index-files/index-4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/index-files/index-5.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/index-files/index-6.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/index-files/index-7.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/overview-tree.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/package-frame.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/package-list" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/package-summary.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/package-tree.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/doc/stylesheet.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/src/Cipher.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/src/Vigenere.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/ExampleOutput_RequestInheritance.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/RequestInheritance_UML.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/S31_RequestInheritance.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/ComputusMain.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/DataGenerator.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/Date.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/File.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/Form.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/GetFileRequest.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/GetRequest.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/GetVideoRequest.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/Payment.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/PostEncryptedFormRequest.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/PostEncryptedPaymentRequest.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/PostFormRequest.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/PostPaymentRequest.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/PostRequest.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/Request.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/Server.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/Video.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/allclasses-frame.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/allclasses-noframe.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/constant-values.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/deprecated-list.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/help-doc.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-1.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-10.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-11.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-12.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-13.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-14.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-5.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-6.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-7.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-8.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index-files/index-9.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/overview-tree.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/package-frame.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/package-list" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/package-summary.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/package-tree.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/doc/stylesheet.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/DataGenerator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/File.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/Form.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/GetFileRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/GetRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/GetVideoRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/Payment.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/PostEncryptedFormRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/PostEncryptedPaymentRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/PostFormRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/PostPaymentRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/PostRequest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/Request.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/Server.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/Video.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,28 +190,24 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Vigenere.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oral_exam1/S28_Vigenere/src/Vigenere.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="45" column="52" lean-forward="true" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cipher.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oral_exam1/S28_Vigenere/src/Cipher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>playagain</find>
+      <find>&quot;</find>
+      <find>'</find>
+      <find>keyEvent</find>
+      <find>Integer.</find>
+      <find>Integer</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,9 +220,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/oral_exam1/S1_Computus/src/Date.java" />
         <option value="$PROJECT_DIR$/oral_exam1/S28_Vigenere/src/Vigenere.java" />
         <option value="$PROJECT_DIR$/oral_exam1/S28_Vigenere/src/Cipher.java" />
+        <option value="$PROJECT_DIR$/oral_exam1/S1_Computus/src/Date.java" />
+        <option value="$PROJECT_DIR$/S20_TicTacToe/src/ComputerPlayer.java" />
+        <option value="$PROJECT_DIR$/S20_TicTacToe/src/HumanPlayer.java" />
+        <option value="$PROJECT_DIR$/S20_TicTacToe/src/Player.java" />
+        <option value="$PROJECT_DIR$/S20_TicTacToe/src/TicTacToeMain.java" />
+        <option value="$PROJECT_DIR$/S20_TicTacToe/src/Board.java" />
+        <option value="$PROJECT_DIR$/S29_BaseChangeGUI/src/BaseChangeGUI.java" />
+        <option value="$PROJECT_DIR$/S29_BaseChangeGUI/src/BaseChangeMain.java" />
+        <option value="$PROJECT_DIR$/S29_BaseChangeGUI/src/BaseChange.java" />
       </list>
     </option>
   </component>
@@ -94,11 +241,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
+    <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -114,8 +263,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -123,26 +270,14 @@
           <expand>
             <path>
               <item name="mmshepherd_swd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="S28_Vigenere" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmshepherd_swd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="S28_Vigenere" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmshepherd_swd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="S31_RequestInheritance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmshepherd_swd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="S31_RequestInheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="S29_BaseChangeGUI" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,6 +286,15 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538620935609" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marc.MARC-PC\IdeaProjects\mmshepherd_swd\S20_TicTacToe\Oral_Exam1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,7 +308,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Vigenere">
+  <component name="RunManager" selected="Application.BaseChangeMain">
+    <configuration name="BaseChangeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="BaseChangeMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="S29_BaseChangeGUI" />
+      <envs />
+    </configuration>
     <configuration name="ComputusMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ComputusMain" />
@@ -177,6 +335,20 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="S1_Computus" />
+      <envs />
+    </configuration>
+    <configuration name="TicTacToeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TicTacToeMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="S20_TicTacToe" />
       <envs />
     </configuration>
     <configuration name="Vigenere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -193,14 +365,18 @@
       <module name="S28_Vigenere" />
       <envs />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.ComputusMain" />
       <item index="1" class="java.lang.String" itemvalue="Application.Vigenere" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TicTacToeMain" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BaseChangeMain" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Vigenere" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ComputusMain" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.BaseChangeMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TicTacToeMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Vigenere" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ComputusMain" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +395,12 @@
       <updated>1538620184676</updated>
       <workItem from="1538620204745" duration="653000" />
       <workItem from="1538623532575" duration="1453000" />
-      <workItem from="1538686539350" duration="5345000" />
+      <workItem from="1538686539350" duration="6282000" />
+      <workItem from="1539012035869" duration="20000" />
+      <workItem from="1539012319866" duration="1062000" />
+      <workItem from="1539613757505" duration="31138000" />
+      <workItem from="1540233701839" duration="4635000" />
+      <workItem from="1540348800900" duration="13291000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1538623694598</created>
@@ -235,40 +416,47 @@
       <option name="project" value="LOCAL" />
       <updated>1538693793568</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Committing">
+      <created>1538693896929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538693896929</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7451000" />
+    <option name="totallyTimeSpent" value="58534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.4941435" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33385828" sideWeight="0.5139092" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33385828" sideWeight="0.48609078" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.4941435" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33385828" sideWeight="0.5168375" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.49707174" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28346458" sideWeight="0.48316252" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12737921" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26793557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -309,34 +497,147 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="Added functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added functionality" />
+    <MESSAGE value="Committing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oral_exam1/S1_Computus/src/Date.java">
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oral_exam1/S1_Computus/src/Date.java">
+    <entry file="file://$PROJECT_DIR$/S29_BaseChangeGUI/src/BaseChangeMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oral_exam1/S1_Computus/src/ComputusMain.java">
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="136">
+          <caret line="11" column="114" lean-forward="false" selection-start-line="11" selection-start-column="114" selection-end-line="11" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/TicTacToeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S29_BaseChangeGUI/src/BaseChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="54" column="16" lean-forward="false" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/ComputerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="114" lean-forward="false" selection-start-line="11" selection-start-column="114" selection-end-line="11" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/TicTacToeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/ComputusMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/ComputusMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
           <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/ComputusMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -347,43 +648,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oral_exam1/S1_Computus/src/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oral_exam1/S31_RequestInheritance/src/Server.java">
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oral_exam1/S31_RequestInheritance/src/DataGenerator.java">
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/DataGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oral_exam1/S27_MachineLearning/src/MachineLearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oral_exam1/S27_MachineLearning/src/Similarity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -391,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -399,30 +673,139 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-459">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="70" column="7" lean-forward="false" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/src/Similarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S27_MachineLearning/src/MachineLearning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/src/Vigenere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="45" column="52" lean-forward="true" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S28_Vigenere/src/Cipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S31_RequestInheritance/src/Form.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/Oral_Exam1/S1_Computus/src/ComputusMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="46" column="7" lean-forward="false" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/S20_TicTacToe.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/ComputerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="114" lean-forward="false" selection-start-line="11" selection-start-column="114" selection-end-line="11" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/TicTacToeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S20_TicTacToe/src/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/lang/NumberFormatException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oral_exam1/S10_ArabicToRomanGUI/src/Swing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
+        <state relative-caret-position="-572">
+          <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oral_exam1/S28_Vigenere/src/Vigenere.java">
+    <entry file="file://$PROJECT_DIR$/S29_BaseChangeGUI/src/BaseChangeMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="45" column="52" lean-forward="true" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+        <state relative-caret-position="306">
+          <caret line="27" column="82" lean-forward="false" selection-start-line="27" selection-start-column="82" selection-end-line="27" selection-end-column="82" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oral_exam1/S28_Vigenere/src/Cipher.java">
+    <entry file="file://$PROJECT_DIR$/S29_BaseChangeGUI/src/BaseChangeGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="51">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S29_BaseChangeGUI/src/BaseChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -430,9 +813,80 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>S29_BaseChangeGUI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
