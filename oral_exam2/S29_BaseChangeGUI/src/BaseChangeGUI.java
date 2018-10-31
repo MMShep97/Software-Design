@@ -100,19 +100,19 @@ public class BaseChangeGUI extends JFrame{
                 //If entering/pushing button for number to be converted, set num
                 if (actionEvent.getSource() == field1 || actionEvent.getSource() == button1) {
                     num = Integer.parseInt(field1.getText()); //Convert to int for error checking
-                    System.out.println(Integer.toString(num)); //Convert back to string for conversion calculation
+                    //System.out.println(Integer.toString(num)); //Convert back to string for conversion calculation
                 }
 
                 //If entering/pushing button for current base, set current base
                 if (actionEvent.getSource() == field2 || actionEvent.getSource() == button2) {
                     currentBase = Integer.parseInt(field2.getText());
-                    System.out.println(currentBase);
+                    //System.out.println(currentBase);
                 }
 
                 //If entering/pushing button for desired base, set desired base
                 if (actionEvent.getSource() == field3 || actionEvent.getSource() == button3) {
                     desiredBase = Integer.parseInt(field3.getText());
-                    System.out.println(desiredBase);
+                    //System.out.println(desiredBase);
                 }
             }
             catch (NumberFormatException ex) {
