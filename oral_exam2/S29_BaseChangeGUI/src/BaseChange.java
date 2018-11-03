@@ -12,6 +12,13 @@ import java.io.*;
 
 public class BaseChange {
 
+    /**
+     * Converts <code>fromBase</code> <code>toBase</code>
+     * @param num -- given input to change base
+     * @param fromBase -- num's starting base
+     * @param toBase -- desired base to change to
+     * @return -- converted num in string format to put into gui
+     */
     public static String changeBase(String num, int fromBase, int toBase) {
         return Integer.toString(Integer.parseInt(num, fromBase), toBase);
     }
