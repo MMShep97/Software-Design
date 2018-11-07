@@ -18,15 +18,15 @@ import java.io.*;
  Examples
  str1: 'ab'
  str2: 'abz'
- edit distance: 1 --> add 'z' to str1
+ edit distance: 1 -- add 'z' to str1
 
  str1: 'abc'
  str2: 'ab'
- edit distance: 1 --> remove c from str1
+ edit distance: 1 -- remove c from str1
 
  str1: 'abc'
  str2: 'abd'
- edit distance: 1 --> replace 'c' in str1 with a 'd'
+ edit distance: 1 -- replace 'c' in str1 with a 'd'
  */
 
 public class EditDistanceMain {
