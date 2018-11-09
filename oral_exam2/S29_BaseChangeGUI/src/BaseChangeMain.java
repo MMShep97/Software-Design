@@ -13,9 +13,9 @@ import java.io.*;
 
  ### Easy
  Convert between hex and binary
- hex <-> binary
+ hex - - binary
  Convert between decimal and octal
- decimal <-> octal
+ decimal - - octal
 
  ### Medium
  Convert between any two bases up to base 32

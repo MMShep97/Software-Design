@@ -54,7 +54,7 @@ public class HumanPlayer extends Player{
 
 
     /**
-     * Alters board symbols based on human player's row & column selection
+     * Alters board symbols based on human player's row and column selection
      * -- provides a small amount of error checking
      * @param array -- signifies the current board status
      * @param playerSymbol -- if 'X', or 'O' based on which player's move it is currently

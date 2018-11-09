@@ -13,7 +13,7 @@ Your game must allow two players to play Tic-Tac-Toe against each other. Your pr
 One human player and one computer player
 Two human players
 Two computer players
-Your computer player can be as smart or “dumb” as you desire. After each move, the current board state must be displayed and the program must check for a winner.  If there is a winner or all places in the board are full, the program must display a status and end.
+Your computer player can be as smart or dumb as you desire. After each move, the current board state must be displayed and the program must check for a winner.  If there is a winner or all places in the board are full, the program must display a status and end.
 
 Code Structure Requirements
 

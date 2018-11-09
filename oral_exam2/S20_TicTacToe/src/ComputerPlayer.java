@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 public class ComputerPlayer extends Player {
 
     /** --DUMB COMPUTER--
-     * Alters board symbols based on computer's selection --> chooses next available position from smallest indice up
+     * Alters board symbols based on computer's selection -- chooses next available position from smallest indice up
      * @param array -- signifies the current board status
      * @param playerSymbol -- if 'X', or 'O' based on which player's move it is currently
      * @throws InterruptedException -- used to simulate computer player 'thinking' and ease of gameplay pace

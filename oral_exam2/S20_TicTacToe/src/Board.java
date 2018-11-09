@@ -51,7 +51,7 @@ public class Board {
                 break;
             }
 
-            //if not end-game, print --> check sub-class type --> player 1 make move
+            //if not end-game, print -- check sub-class type -- player 1 make move
             printTicTacToeBoard(boardArray);
             System.out.println(isHuman(player1) ? "Human Player (1st): " : "Computer Player (1st): ");
             player1.makeMove(boardArray, "X");
@@ -64,7 +64,7 @@ public class Board {
                 break;
             }
 
-            //If not end-game, print --> check sub-class type --> player 2 make move
+            //If not end-game, print -- check sub-class type -- player 2 make move
             printTicTacToeBoard(boardArray);
             System.out.println(isHuman(player2) ? "Human Player (2nd) " : "Computer Player (2nd): ");
             player2.makeMove(boardArray, "O");
@@ -72,7 +72,7 @@ public class Board {
     }
 
     /**
-     * Checks for end-game --> checks each indice in the board & returns true only if victory/draw detected
+     * Checks for end-game -- checks each indice in the board and returns true only if victory/draw detected
      * -- used within playTTToe() method
      * @param board -- board array brought in to check
      * @return -- false if not end-game, true if end-game

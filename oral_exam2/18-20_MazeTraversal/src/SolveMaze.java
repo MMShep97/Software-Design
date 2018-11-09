@@ -35,13 +35,13 @@ public class SolveMaze {
     }
 
     /**
-     * Maneuvers through maze, putting an x for traversed paths & replaces current location with '@' at each step if the path
+     * Maneuvers through maze, putting an x for traversed paths and replaces current location with '@' at each step if the path
      * results in a dead end.
      * @param maze -- brings in specified maze in main method
      * @param row -- current row in path -- changes based on current recursive step
      * @param col -- current col in path -- changes based on current recursive step
      * @return boolean -- true if maze solved, false otherwise
-     * @throws InterruptedException -- simulated maze completion time for visibility --> remove TimeUnit.MILLISECONDS.sleep if unwanted
+     * @throws InterruptedException -- simulated maze completion time for visibility -- remove TimeUnit.MILLISECONDS.sleep if unwanted
      */
     public boolean mazeTraversal(char[][] maze, int row, int col) throws InterruptedException {
 
