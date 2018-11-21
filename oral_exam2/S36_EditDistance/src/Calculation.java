@@ -20,6 +20,7 @@ public class Calculation {
         int len1 = string1.length();
         int len2 = string2.length();
         int distance = 0;
+        int stepCount = 1;
 
         StringBuilder str1 = new StringBuilder(string1);
         StringBuilder str2 = new StringBuilder(string2);
@@ -31,7 +32,9 @@ public class Calculation {
             for (int i = 0; (i < len1) && (i < len2); i++) {
                 if (str1.charAt(i) != str2.charAt(i)) {
                     str1.setCharAt(i, str2.charAt(i));
+                    System.out.println("Step " + stepCount + ": " + str1);
                     distance++;
+                    stepCount++;
                 }
             }
 
@@ -41,7 +44,9 @@ public class Calculation {
         if (len1 < len2) {
             for (int i = len1; i < len2; i++) {
                 str1.append(str2.charAt(i));
+                System.out.println("Step " + stepCount + ": " + str1);
                 distance++;
+                stepCount++;
             }
         }
 
@@ -51,7 +56,9 @@ public class Calculation {
         else if (len1 > len2) {
             for (int i = len2; i < len1; i++) {
                 str1.deleteCharAt(str1.length() - 1);
+                System.out.println("Step " + stepCount + ": " + str1);
                 distance++;
+                stepCount++;
             }
         }
         return distance;
