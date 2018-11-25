@@ -14,7 +14,7 @@ public class Draw extends JFrame {
 
     /**
      * Constructs the gui. In it, creates a circle object which allows for circle calculations, as well as the drawing of the circle component.
-     * A JTextArea holds all of the circle calculations and the circle object & textArea components are added to a container.
+     * A JTextArea holds all of the circle calculations and the circle object and textArea components are added to a container.
      */
     public Draw()
     {
