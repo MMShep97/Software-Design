@@ -8,7 +8,7 @@ import java.io.IOException;
  * methods are invoked for configuration.
  */
 
-public class Rotate extends JFrame {
+public class Rotate{
 
     public static void main(String[] args) throws IOException {
         JFrame frame = new JFrame();
@@ -16,6 +16,6 @@ public class Rotate extends JFrame {
         Interface guiPanel = new Interface();
         frame.add(guiPanel);
         frame.setVisible(true);
-        frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
