@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class Rotate{
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         JFrame frame = new JFrame();
         frame.setSize(600, 600);
         Interface guiPanel = new Interface();
